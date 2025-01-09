@@ -3,3 +3,5 @@ Test 1
 
 This line will go to test
 this line is for test2
+
+No branch has this line accept main.
