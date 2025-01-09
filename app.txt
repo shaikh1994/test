@@ -1,5 +1,5 @@
 Updated app
 Test 1
 
-This line will go to test
+This line will go to test. This is new sentence for test from old main.
 this line is for test2
