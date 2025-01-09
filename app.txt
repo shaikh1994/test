@@ -2,3 +2,4 @@ Updated app
 Test 1
 
 This line will go to test
+this line is for test2
